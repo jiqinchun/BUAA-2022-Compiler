@@ -1,0 +1,14 @@
+INTTK int
+MAINTK main
+LPARENT (
+RPARENT )
+LBRACE {
+CHARTK char
+IDENFR d
+<VarDef>
+SEMICN ;
+<VarDecl>
+RBRACE }
+<Block>
+<MainFuncDef>
+<CompUnit>
